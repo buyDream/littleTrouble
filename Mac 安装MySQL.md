@@ -26,9 +26,7 @@
 
 ​        cd /usr/local/mysql/
 
-​	sudo bin/mysqld --initialize --user=mysql
-
-![截图](截图.png)
+​	sudo bin/mysqld --initialize --user=mysql	![截图](image/截图.png)
 
 5. 启动。重启、停止、当前状态
 
@@ -62,6 +60,6 @@
 
 3. 输入生成的临时密码或旧密码
 
-   ![截图2](截图2.png)
+   ![截图2](/Users/refrain/Documents/笔记/littleTrouble/image/截图2.png)
 
 error: 表示输入密码不正确
