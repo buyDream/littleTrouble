@@ -10,7 +10,7 @@
 
       tar zxvf mysql-5.7.18-macos10.12-x86_64.tar.gz 
 
-	2.  移动解压后的二进制包到安装目录
+      2.  移动解压后的二进制包到安装目录
 
      sudo mv mysql-5.7.18-macos10.12-x86_64 /usr//local/mysql
 
@@ -28,9 +28,7 @@
 
 ​	sudo bin/mysqld --initialize --user=mysql
 
-![截图](/Users/refrain/Desktop/截图.png)
-
-
+![截图](/Users/refrain/Documents/笔记/littleTrouble/截图.png)
 
 5. 启动。重启、停止、当前状态
 
@@ -64,6 +62,6 @@
 
 3. 输入生成的临时密码或旧密码
 
-   ![截图2](/Users/refrain/Desktop/截图2.png)
+   ![截图2](/Users/refrain/Documents/笔记/littleTrouble/截图2.png)
 
 error: 表示输入密码不正确
