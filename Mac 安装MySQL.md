@@ -60,6 +60,6 @@
 
 3. 输入生成的临时密码或旧密码
 
-   ![截图2](/Users/refrain/Documents/笔记/littleTrouble/image/截图2.png)
+   ![截图2](image/截图2.png)
 
 error: 表示输入密码不正确
